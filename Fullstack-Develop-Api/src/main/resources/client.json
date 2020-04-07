@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fullstackdevelophumberto",
+  "private_key_id": "084ef5719dac4a649a62b1aa4538cb70d631b47c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkWWWVKyIbekfH\nR5pwGPyKVN6QWxYJgaTQ2JFq6x+iOEliOwj2e/vmFS307I0tP0avZ0aIo6l/tuo1\nw2+wkpbbDAs6mtb0aRPCzMZtZxAGURG811AUngR6K32AeJ9rRrTe3SGhnL759EsH\n5AVp9ihWkZmkuRESgSUhMmCyzAh2coZB69VbKApw6ovp/1bIHjNCGdRG7+24RiZB\n9aYiSsPFb+aFdp32jrciIw295yh8AML87qBvbIk+9gKJdcQtLa/dXTiEjh0FRJwr\nFI22Apmy9Cbf5/rfEkKuT4st76yc/9urxJhE704xBrgt02MeWP4pvy9M3sWtpT3H\n5wGMRie5AgMBAAECggEAS+90NJJr3WdHz+chD8cztBSXivpS+cx5YveVZOHDSXgZ\nS/Y742sQzdOeWsqLRks0tSmSGOMJl1Vj7LhinCJ26jmr3IWbaO098KUdz4GtkUWW\n3Ppc6VHDftEmWRwiiHXwbwKcHehnAuVhX4F3EOjn5Wu7ojTSEwsxpR96N1J3XIY6\nV69n8e/v0smCaRZA9TkyieEhG57CQTB1IRkty/nbqI8+kJnDuy4qinl4thorjwIh\nTPWEybtv6l4ZDBBwMv7vTlmxwiQiKePFHKYnz6tllSuDnD4cRsh8VDIHXELP4/u1\nIvo3MPY7h7tOZ6nAIwO4p9PuyeoCZ7zioXhXF7twswKBgQDiJ696qA7UQ8WdPOrJ\nxqr/FHRJlcVdAOoQP3Z/ujSSdXjnOOneBsZzqzYr+98KxiXDu036PACeY6GxINCc\nm3ffRirJCJXkcXybrPr1s4z+3p7NZcWPenGwaZacss1FiIOv2gvCdDVfaFnBNtvK\n/8dANch6tKi0q0g38aSbVeQxgwKBgQC6CbFedGK2Av8w02ozZzIvFX3IB68wURLg\nq9Mw1FRvqMCoAoReZme9NH/44TmMAfjWjoITkU8IN0YaU+YAPYrdTsPRlb9lrSyc\ntRNwfL+2gy4NN55VdIGi3NiFQao4L5Jd7Addm0h+QwpGBEtFrwQl76FP29wghmVO\nDOqkrA2pEwKBgA5a9oiSol5W7vRMKZslQTVv1vHUz/JXXIQrgxoYd73UNxh2RGIT\njAVLmOSx2DaW3U7PVOPNazyilmDn9FX8iF9j1NNt+BXIHmDDWiq+evSyrOHc0+2H\nmC/ag/TuZJlFURaYgKaXOcwUk53wHYOFOOCaiV9AmHTfanYioJA7o4CBAoGAW/KE\ndoGhdAIBLJmhKKy9ceX2V9HsdT3szZw+8ihPXyyRo7gywhFs/mefRFvUvG0RFsIy\nagdsf0wKWuLSj5XbN0xBnimcAl3X6c/ZPsR5YHRvY1r055mApQTwAtSUk9Z3SfJp\nJYulBbqOrlJa/aLlsvY/zR+GKZEjKrNZmW/sBH8CgYEA2CaBE8BIY3X4OipyUqwI\nk9vnN1WJ3yMlJ7r56b6N6mVtTYSVeAVpeRwlfBHn7bHR+8L7fxOXL78KRSIVdX6l\nTStkRVBz24NbdbTb2OBc5YbUTrcCZBDWwI0j/tNBmwDAnJKmCY6SLpTzpjyjPMp1\nUQSlVh74z62mYHNj/H48jVk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "servicekey@fullstackdevelophumberto.iam.gserviceaccount.com",
+  "client_id": "108432042089116476803",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/servicekey%40fullstackdevelophumberto.iam.gserviceaccount.com"
+}
